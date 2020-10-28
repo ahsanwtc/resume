@@ -14,8 +14,8 @@
 }
 
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+  /* background-color: #282c34; */
+  min-height: 80vh;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -24,8 +24,21 @@
   color: white;
 }
 
+.profile-photo {
+  /* border-radius: 5px 20px 5px; */
+  border-radius: 50%;
+  width: 30vh;
+}
+
 .App-link {
   color: #61dafb;
+}
+
+.social-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 20vh;
 }
 
 @keyframes App-logo-spin {
