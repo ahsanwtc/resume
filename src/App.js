@@ -16,7 +16,7 @@ function App() {
           <h2>I'm Ahsan J. Butt</h2>
           
           <div className="social-container">
-            <a href="https://www.linkedin.com/in/ahjaved/" target="_blank" className="App-link" rel="noreferrer"><FontAwesomeIcon icon={['fab', 'linkedin']} /></a>
+            <a href="https://www.linkedin.com/in/jsancs/" target="_blank" className="App-link" rel="noreferrer"><FontAwesomeIcon icon={['fab', 'linkedin']} /></a>
             <a href="https://github.com/ahsanwtc" target="_blank" className="App-link" rel="noreferrer"><FontAwesomeIcon icon={['fab', 'github']} /></a>
             <a href="https://twitter.com/jsantv" target="_blank" className="App-link" rel="noreferrer"><FontAwesomeIcon icon={['fab', 'twitter']} /></a>            
           </div>
